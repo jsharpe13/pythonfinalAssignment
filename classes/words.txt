@@ -1,0 +1,24 @@
+E cat
+E tree
+E mal3l
+E car
+E man
+E ball
+E dog
+Ehello
+E  house
+E spider-man
+E Hello man
+E Hi,
+E house
+
+
+M medium
+M nobody
+M python
+M i'm batman
+
+
+H singapore
+H australia
+H dictionary
